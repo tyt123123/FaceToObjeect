@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceToObjeect", "FaceToObjeect\FaceToObjeect.csproj", "{737FC613-AB81-4A3E-B4DE-833CBB0BD239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC", "GC\GC.csproj", "{6C71E741-0BA0-4150-9D2D-A72FA11270F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMechanical", "IndexMechanical\IndexMechanical.csproj", "{C82373EA-F4F0-4DA8-A9A6-548AB019A8E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{737FC613-AB81-4A3E-B4DE-833CBB0BD239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737FC613-AB81-4A3E-B4DE-833CBB0BD239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737FC613-AB81-4A3E-B4DE-833CBB0BD239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C71E741-0BA0-4150-9D2D-A72FA11270F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C71E741-0BA0-4150-9D2D-A72FA11270F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C71E741-0BA0-4150-9D2D-A72FA11270F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C71E741-0BA0-4150-9D2D-A72FA11270F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82373EA-F4F0-4DA8-A9A6-548AB019A8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82373EA-F4F0-4DA8-A9A6-548AB019A8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82373EA-F4F0-4DA8-A9A6-548AB019A8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82373EA-F4F0-4DA8-A9A6-548AB019A8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
