@@ -1,0 +1,7 @@
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\bin\Debug\Expand_the_approach.exe
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\bin\Debug\Expand_the_approach.pdb
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\obj\Debug\Expand the approach.csproj.AssemblyReference.cache
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\obj\Debug\Expand the approach.csproj.SuggestedBindingRedirects.cache
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\obj\Debug\Expand the approach.csproj.CoreCompileInputs.cache
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\obj\Debug\Expand_the_approach.exe
+D:\CODES\Rd code\FaceToObjeect\Expand the approach\obj\Debug\Expand_the_approach.pdb

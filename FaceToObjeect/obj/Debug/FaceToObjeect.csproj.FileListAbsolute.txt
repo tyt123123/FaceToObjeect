@@ -1,0 +1,7 @@
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\bin\Debug\FaceToObjeect.exe
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\bin\Debug\FaceToObjeect.pdb
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\obj\Debug\FaceToObjeect.csproj.AssemblyReference.cache
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\obj\Debug\FaceToObjeect.csproj.SuggestedBindingRedirects.cache
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\obj\Debug\FaceToObjeect.csproj.CoreCompileInputs.cache
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\obj\Debug\FaceToObjeect.exe
+D:\CODES\Rd code\FaceToObjeect\FaceToObjeect\obj\Debug\FaceToObjeect.pdb
