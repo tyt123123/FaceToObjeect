@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMechanical", "IndexMec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expand the approach", "Expand the approach\Expand the approach.csproj", "{C0A14F33-4F30-46D0-8DB4-AF66E3C01022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richtersubstitution", "Richtersubstitution\Richtersubstitution.csproj", "{76409FB7-FB35-4FD9-B675-17CEA407514F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{E973F77E-662E-47B7-A0CE-53D619D20092}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{C0A14F33-4F30-46D0-8DB4-AF66E3C01022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A14F33-4F30-46D0-8DB4-AF66E3C01022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A14F33-4F30-46D0-8DB4-AF66E3C01022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76409FB7-FB35-4FD9-B675-17CEA407514F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76409FB7-FB35-4FD9-B675-17CEA407514F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76409FB7-FB35-4FD9-B675-17CEA407514F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76409FB7-FB35-4FD9-B675-17CEA407514F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E973F77E-662E-47B7-A0CE-53D619D20092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E973F77E-662E-47B7-A0CE-53D619D20092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E973F77E-662E-47B7-A0CE-53D619D20092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E973F77E-662E-47B7-A0CE-53D619D20092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
